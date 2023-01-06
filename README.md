@@ -1,5 +1,5 @@
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+  [![Spotify](https://github-spotify-readme-pi.vercel.app/api/spotify)](https://open.spotify.com/user/boxofdeath)
 </div>
 
 &nbsp;<div align="center">
