@@ -79,10 +79,10 @@ def barGen(barCount):
     for i in range(1, barCount + 1):
         anim = random.randint(500, 1000)
         # below code generates random cubic-bezier values
-        x1 = random.random()
-        y1 = random.random()*4
-        x2 = random.random()
-        y2 = random.random()*6
+        x1 = "eb5a5b"
+        y1 = "e41b39"
+        x2 = "eb5a5b"
+        y2 = "e41b39"
         barCSS += (
             ".bar:nth-child({})  {{ left: {}px; animation-duration: 15s, {}ms; animation-timing-function: ease, cubic-bezier({},{},{},{}); }}".format(
                 i, left, anim, x1, y1, x2, y2
